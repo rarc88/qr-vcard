@@ -2,7 +2,7 @@
   "name": "qr-code",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rarc88/github.io/qr-vcard",
+  "homepage": "https://rarc88.github.io/qr-vcard/",
   "dependencies": {
     "@material-ui/core": "^4.4.3",
     "gh-pages": "^2.1.1",
