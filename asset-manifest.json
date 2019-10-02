@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/qr-vcard/static/css/main.34de6062.chunk.css",
-    "main.js": "/github.io/qr-vcard/static/js/main.f453ab48.chunk.js",
-    "main.js.map": "/github.io/qr-vcard/static/js/main.f453ab48.chunk.js.map",
-    "runtime-main.js": "/github.io/qr-vcard/static/js/runtime-main.7107b255.js",
-    "runtime-main.js.map": "/github.io/qr-vcard/static/js/runtime-main.7107b255.js.map",
-    "static/js/2.6c36b7fa.chunk.js": "/github.io/qr-vcard/static/js/2.6c36b7fa.chunk.js",
-    "static/js/2.6c36b7fa.chunk.js.map": "/github.io/qr-vcard/static/js/2.6c36b7fa.chunk.js.map",
-    "index.html": "/github.io/qr-vcard/index.html",
-    "precache-manifest.8756bd24244417514e40adfe2bc92c5b.js": "/github.io/qr-vcard/precache-manifest.8756bd24244417514e40adfe2bc92c5b.js",
-    "service-worker.js": "/github.io/qr-vcard/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/github.io/qr-vcard/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/qr-vcard/static/css/main.34de6062.chunk.css",
+    "main.js": "/qr-vcard/static/js/main.620f40c7.chunk.js",
+    "main.js.map": "/qr-vcard/static/js/main.620f40c7.chunk.js.map",
+    "runtime-main.js": "/qr-vcard/static/js/runtime-main.dccb0038.js",
+    "runtime-main.js.map": "/qr-vcard/static/js/runtime-main.dccb0038.js.map",
+    "static/js/2.adcefbf3.chunk.js": "/qr-vcard/static/js/2.adcefbf3.chunk.js",
+    "static/js/2.adcefbf3.chunk.js.map": "/qr-vcard/static/js/2.adcefbf3.chunk.js.map",
+    "index.html": "/qr-vcard/index.html",
+    "precache-manifest.5795d7648cd0f146cf1af869bd191788.js": "/qr-vcard/precache-manifest.5795d7648cd0f146cf1af869bd191788.js",
+    "service-worker.js": "/qr-vcard/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/qr-vcard/static/css/main.34de6062.chunk.css.map"
   }
 }
