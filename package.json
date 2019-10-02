@@ -2,10 +2,16 @@
   "name": "qr-code",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://localhost/qrvcard",
   "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "qrcode.react": "^0.9.3",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "save-svg-as-png": "^1.4.14",
+    "styled-components": "^4.4.0",
+    "vcards-js": "^2.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
